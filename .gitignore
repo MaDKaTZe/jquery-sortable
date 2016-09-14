@@ -16,3 +16,6 @@
 /.irbrc
 *_out
 *.gz
+
+# IDE files
+.idea
